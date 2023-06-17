@@ -36,4 +36,4 @@ I hope you find this repository helpful in your genome assembly and gene annotat
 
 Happy genome assembly and gene annotation!
 
-*[Your Name]*
+*[Alexander Lim]*
